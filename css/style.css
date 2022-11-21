@@ -14,15 +14,6 @@
   position: center;
 }
 
-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding-top: 30px;
-  padding-left: 8%;
-  padding-right: 8%;
-}
-
 .logo {
   color: white;
   font-size: 35px;
@@ -30,8 +21,17 @@ nav {
   cursor: pointer;
 }
 
-span {
+.logo span {
   color: rgb(248, 4, 167);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 8%;
+  padding-right: 8%;
 }
 
 nav ul li {
@@ -66,25 +66,25 @@ nav ul li a:hover {
   transition: 0.3s;
  }
 
-.content {
+.hero-section-content {
   position: absolute;
-  top: 30%;
+  top: 32%;
   left: 8%;
 }
 
-h1 {
+.hero-section-content h1 {
   color: white;
   margin: 20px 0px 20px;
   font-size: 75px;
 }
 
-h3 {
+.hero-section-content h3 {
   color: white;
   font-size: 25px;
   margin-bottom: 50px;
 }
 
-h4 {
+.hero-section-content h4 {
   color: #fcfc;
   letter-spacing: 2px;
   font-size: 20px;
