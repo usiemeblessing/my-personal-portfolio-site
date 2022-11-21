@@ -8,7 +8,9 @@ The task aims at achieving the following
 - A little about myself
 - My Skill set
 
-Attached is the link to the full page screenshot of the portfolio site
+Attached herein is the link to the full page screenshot of the portfolio site
+
+https://drive.google.com/file/d/1Dgvw6CJmx5SqBSZLktaAofaiMvNmQWgb/view?usp=share_link
 
 
 
